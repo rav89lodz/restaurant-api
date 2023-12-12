@@ -1,0 +1,12 @@
+appsettings.Development.json
+appsettings.json
+.vs
+bin
+Logs/*
+obj
+PrivateFiles/*
+wwwroot/*
+nlog.config
+RestaurantAPI.csproj.user
+RestaurantAPI.http
+RestaurantAPI.sln
